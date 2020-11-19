@@ -1,6 +1,6 @@
 # PNU_3991_AR
 ---------
-### فاطمه وکیلی
+### زینب صیاحی
  
 ---
 - [PNU_3991_AR](https://github.com/zeynab-sayahi/PNU_3991_AR/)
@@ -13,7 +13,7 @@
 
 - [JavaScript_Certificate]
 
-- [jlord patchwork](patchwork.png)
+- [jlord patchwork]
 
 ------------------
 ## Winter Semester Courses 1399/2020
