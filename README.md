@@ -7,9 +7,9 @@
 
 - [حساب گیت هاب](https://github.com/zeynab-sayahi/)
 
-- [رزومه](https://zeynab-sayahi.github.io/SOP/)
+- [انگیزه نامه](https://zeynab-sayahi.github.io/SOP/)
 
-- [انگیزه نامه](https://zeynab-sayahi.github.io/zeynabsayahi.github.io/)
+- [رزومه](https://zeynab-sayahi.github.io/zeynabsayahi.github.io/)
 
 - [JavaScript_Certificate]
 
