@@ -20,7 +20,7 @@
 
 ## دروس کارشناسی
 
-[1322110_01	طراحي واسط كاربر	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
+[روش پژوهش وارائه 1322010_01]https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods
 
 ----------------
 ## روز و ساعت ارائه دروس
@@ -53,8 +53,8 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/
-">طراحي واسط كاربر</a></th>
+    <th ><a  href=https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods
+">روش پژوهش وارائه</a></th>
     <th></th>
     <th ></th>   
     <th>دوشنبه</th>
