@@ -52,9 +52,9 @@
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
     <th ><a  href=https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods
 ">روش پژوهش وارائه</a></th>
+    <th ></th>
     <th></th>
     <th ></th>   
     <th>دوشنبه</th>
