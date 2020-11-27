@@ -3,7 +3,7 @@
 ### زینب سیاحی بخشایش 
  
 ---
-- [PNU_3991_AR](https://github.com/zeynab-sayahi/PNU_3991_AR/)
+- [PNU_3991_AR](https://github.com/zeynabsayahi/PNU_3991_AR)
 
 - [حساب گیت هاب](https://github.com/zeynab-sayahi/)
 
