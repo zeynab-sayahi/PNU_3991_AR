@@ -9,7 +9,7 @@
 
 - [انگیزه نامه](https://zeynab-sayahi.github.io/SOP/)
 
-- [رزومه](https://zeynab-sayahi.github.io/zeynabsayahi.github.io/)
+- [رزومه](https://zeynabsayahi.github.io/)
 
 - [JavaScript_Certificate]
 
