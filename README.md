@@ -5,7 +5,7 @@
 ---
 - [PNU_3991_AR](https://github.com/zeynabsayahi/PNU_3991_AR)
 
-- [حساب گیت هاب](https://github.com/zeynab-sayahi/)
+- [حساب گیت هاب](https://github.com/zeynabsayahi)
 
 - [انگیزه نامه](https://zeynabsayahi.github.io/SOP/)
 
