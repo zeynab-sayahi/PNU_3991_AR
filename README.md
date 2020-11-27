@@ -7,7 +7,7 @@
 
 - [حساب گیت هاب](https://github.com/zeynab-sayahi/)
 
-- [انگیزه نامه](https://zeynab-sayahi.github.io/SOP/)
+- [انگیزه نامه](https://zeynabsayahi.github.io/SOP/)
 
 - [رزومه](https://zeynabsayahi.github.io/)
 
