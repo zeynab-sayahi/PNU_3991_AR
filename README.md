@@ -11,7 +11,7 @@
 
 - [رزومه](https://zeynabsayahi.github.io/)
 
-- [JavaScript_Certificate](https://www.sololearn.com/Certificate/1024-20278396/pdf/)
+- [JavaScript_Certificate](https://www.sololearn.com/Certificate/JavaScript/jpg/)
 
 - [jlord patchwork]
 
