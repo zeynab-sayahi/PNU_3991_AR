@@ -11,7 +11,7 @@
 
 - [رزومه](https://zeynabsayahi.github.io/)
 
-- [JavaScript_Certificate]
+- [JavaScript_Certificate](https://raw.githubusercontent.com/zeynabsayahi/PNU_3991_AR/main/cert-1024-20278396(1).jpg)
 
 - [jlord patchwork]
 
