@@ -13,7 +13,7 @@
 
 - [JavaScript_Certificate](https://raw.githubusercontent.com/zeynabsayahi/PNU_3991_AR/main/cert-1024-20278396(1).jpg)
 
-- [jlord patchwork]
+- [jlord patchwork](https://raw.githubusercontent.com/zeynabsayahi/PNU_3991_AR/main/Untitled.jpg)
 
 ------------------
 ## Winter Semester Courses 1399/2020
