@@ -21,6 +21,9 @@
 ## دروس کارشناسی
 - [1322010_01  روش پژوهش و ارائه] (https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
+
+- [حساب گیت هاب](https://github.com/zeynabsayahi)
+
 ----------------
 ## روز و ساعت ارائه دروس
 
