@@ -19,7 +19,7 @@
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
-- [1322010_01  روش پژوهش و ارائه] (https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
+- [1322010_01  روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
 
 - [1322010_01  روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
