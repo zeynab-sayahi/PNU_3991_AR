@@ -15,6 +15,8 @@
 
 - [jlord patchwork](https://raw.githubusercontent.com/zeynabsayahi/PNU_3991_AR/main/Untitled.jpg)
 
+-[پروژه گروهی]
+
 ------------------
 ## Winter Semester Courses 1399/2020
 1.G-A01
