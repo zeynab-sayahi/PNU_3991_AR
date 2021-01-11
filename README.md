@@ -20,10 +20,13 @@
 - [لاتک](https://github.com/zeynabsayahi/PNU_3991_AR/blob/main/4_5967772550015487543.pdf)
 
 - [نمونه ارائه شده در دانشگاه های دیگر ](https://shahreketabonline.com/Products/Details/243874/%D8%A7%D8%B5%D9%88%D9%84_%D9%88_%D8%B1%D9%88%D8%B4%D9%87%D8%A7%DB%8C_%D9%BE%DA%98%D9%88%D9%87%D8%B4_%DA%A9%DB%8C%D9%81%DB%8C_%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%A2%D8%B2%D8%A7%D8%AF_%D8%B9%D9%84%D9%88%D9%85_%D8%AA%D8%AD%D9%82%DB%8C%D9%82%D8%A7%D8%AA)
-
-- [معرفی روش پژوهش پایان نامه](http://methods.sagepub.com/About) 
+- [لاتک](https://github.com/zeynabsayahi/PNU_3991_AR/blob/main/4_5967772550015487543.pdf)
+ 
 
 ### ارزیابی
+- [رزومه و انگیزه نامه](https://github.com/zeynabsayahi/PNU_3991_AR/blob/main/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B1%D8%B2%D9%88%D9%85%D9%87%20%D9%88%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87.pdf)
+- [فعالیت های مشترک](https://github.com/zeynabsayahi/PNU_3991_AR/blob/main/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA%20%D9%87%D8%A7%DB%8C%20%D9%85%D8%B4%D8%AA%D8%B1%DA%A9.pdf)
+- [ارزیای درس کارشناسی](https://github.com/zeynabsayahi/PNU_3991_AR/blob/main/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%B1%D8%B3.pdf)
 ------------------
 ## Winter Semester Courses 1399/2020
 1.G-A01
