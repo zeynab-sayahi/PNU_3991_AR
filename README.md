@@ -26,7 +26,7 @@
 ### ارزیابی
 - [رزومه و انگیزه نامه](https://github.com/zeynabsayahi/PNU_3991_AR/blob/main/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B1%D8%B2%D9%88%D9%85%D9%87%20%D9%88%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D9%86%D8%A7%D9%85%D9%87.pdf)
 - [فعالیت های مشترک](https://github.com/zeynabsayahi/PNU_3991_AR/blob/main/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA%20%D9%87%D8%A7%DB%8C%20%D9%85%D8%B4%D8%AA%D8%B1%DA%A9.pdf)
-- [ارزیای درس کارشناسی](https://github.com/zeynabsayahi/PNU_3991_AR/blob/main/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%B1%D8%B3.pdf)
+- [ارزیابی درس کارشناسی](https://github.com/zeynabsayahi/PNU_3991_AR/blob/main/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%20%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%D8%B1%D8%B3.pdf)
 ------------------
 ## Winter Semester Courses 1399/2020
 1.G-A01
